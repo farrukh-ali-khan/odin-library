@@ -15,7 +15,7 @@ This is a small Library app built with HTML, CSS, and JavaScript. The app allows
 
 ## Live URL
 
-[Live Demo](https://your-username.github.io/library-app/)
+[Live Demo](https://farrukh-ali-khan.github.io/odin-library/)
 
 ## Getting Started
 
